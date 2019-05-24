@@ -1,5 +1,3 @@
-
-
 function sum(a, b) {
   return a + b;
 }
@@ -17,4 +15,3 @@ function mult(a, b){
 }
 
 module.exports = { sum, sub, div, mult };
-require('make-runnable');
