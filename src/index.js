@@ -2,5 +2,5 @@ const { start, userInput, menuNumber, askForOperationNumbers } = require('./calc
 
 start();
 menuNumber();
-userInput();
+// userInput();
 // askForOperationNumbers();
