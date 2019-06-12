@@ -1,6 +1,4 @@
-const { start, userInput, menuNumber, askForOperationNumbers } = require('./calculator')
+const { start, menuNumber } = require('./calculator')
 
 start();
 menuNumber();
-// userInput();
-// askForOperationNumbers();
