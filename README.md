@@ -11,6 +11,7 @@ npm start
 ```
 and follow the instructions!
 To exit the progam, just run `Ctrl+C`.
+Any modifications have to be done on `calculator.js` in the src folder.
 
 ## Testing
 
